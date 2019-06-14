@@ -1,0 +1,4 @@
+this file contain branch descriptio
+this file create for learn about git brach checkout
+git checkout means switch bettween branch
+one branch to other.
